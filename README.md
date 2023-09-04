@@ -21,14 +21,14 @@ Se procede luego a la comparación de pares y en paralelo se mostrará en una ve
 
 ![Residuo de poda no lignocelulósico](18_al_22.png)
 
-### Fig 1 Residuo de poda no
+###### Fig 1 Residuo de poda no
    
 En tanto que la salida del ranqing debería verse como en la fig. 2
 
 ![Ranking de alternativas](Riera_PQ1.png)
 
 
-### Ranking de alternativas
+###### Ranking de alternativas
 
 
 Desarrollo de la herramienta y adaptación
