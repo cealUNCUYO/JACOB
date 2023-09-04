@@ -1,4 +1,4 @@
-AHPhybrid <- function(title, Alternatives, Qualitative_criteria, Quantitative_criteria,
+JacobGIS <- function(title, Alternatives, Qualitative_criteria, Quantitative_criteria,
                       Quantitative_crit_min_max, n_alt, n_crit, n_crit_Qual, n_crit_Quant,
                       Criteria_Comparison, Alternatives_comparison_qualit_crit, Alternatives_quantitative_crit) {
 
