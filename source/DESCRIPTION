@@ -1,0 +1,25 @@
+Package: Modification AHPhybrid for JACOB
+Type: Package dependece
+Title: AHP Hybrid Method
+Version: 0.1.0
+Original Authors@R: c(person("Miguel", "Angelo Lellis Moreira", role=c("aut", "cre"), email="miguellellis@hotmail.com"),
+             person("Marcos", "dos Santos", role="aut", email="marcosdossantos_doutorado_uff@yahoo.com.br"),
+             person("Carlos", "Francisco Simoes Gomes", role="aut", email="cfsg1@bol.com.br"),
+             person("Claudio", "de Souza Rocha junior", role="aut", email="claudiodesouzarochajunior@gmail.com"))
+
+
+Modified Version Author: Ricardo Palma [rpalma@uncu.edu.ar],
+  Marcos dos Santos [aut],
+  Carlos Francisco Simoes Gomes [aut],
+  Claudio de Souza Rocha junior [aut]
+Maintainer: Miguel Angelo Lellis Moreira <miguellellis@hotmail.com>
+Description: Esta es una versión modificada del algoritmo original del método Híbrido de AHP
+propuesto por Angelo Lelis Moreira et al. que se urilizará en JACOB junto a bases de teselas
+SF para geolocalizar criterios de selección de alternativas
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: no
+Packaged: 2023-09-04 13:09:48 UTC; rick
+Repository: CRAN
+Date/Publication: 2021-02-10 11:00:20 UTC
