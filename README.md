@@ -19,5 +19,5 @@ Las capas en formato SF o Leaflet para importarlas al proyecto. Deberás al meno
 Luego comenzará la ronda de definición de residuos tipo a rankear, y los criterios de selección
 Se procede luego a la comparación de pares y en paralelo se mostrará en una ventana web como progresa el ranking y el índice de incosistencia del torneo de consultas a expertos.
 
-![Residuo de poda no lignocelulósico](20_al_22.png)
+![Residuo de poda no lignocelulósico](18_al_22.png)
    
