@@ -28,7 +28,7 @@ En tanto que la salida del ranqing debería verse como en la fig. 2
 ![Ranking de alternativas](Riera_PQ1.png)
 
 
-###### Ranking de alternativas
+###### Fig 2 Ranking de alternativas
 
 
 Desarrollo de la herramienta y adaptación
