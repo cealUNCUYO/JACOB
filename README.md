@@ -20,7 +20,17 @@ Luego comenzará la ronda de definición de residuos tipo a rankear, y los crite
 Se procede luego a la comparación de pares y en paralelo se mostrará en una ventana web como progresa el ranking y el índice de incosistencia del torneo de consultas a expertos.
 
 ![Residuo de poda no lignocelulósico](18_al_22.png)
+
+### Fig 1 Residuo de poda no
    
 En tanto que la salida del ranqing debería verse como en la fig. 2
 
 ![Ranking de alternativas](Riera_PQ1.png)
+
+
+### Ranking de alternativas
+
+
+Desarrollo de la herramienta y adaptación
+
+Ricardo R. Palma <rpalma@uncu.edu.ar>  ORCID(s): 0000-0002-1864-7625
