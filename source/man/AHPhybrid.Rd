@@ -1,10 +1,10 @@
-\name{JACOB}
+\name{Jacob_GIS}
 
 \alias{GEOMATIC_HAP}
 
-\title{AHP Hybrid}
+\title{GIS AHP JACOB}
 
-\usage{ jacob(title, Alternatives, Qualitative_criteria, Quantitative_criteria,
+\usage{ Jacob_GIS(title, Alternatives, Qualitative_criteria, Quantitative_criteria,
 Quantitative_crit_min_max, n_alt, n_crit, n_crit_Qual, n_crit_Quant, Criteria_Comparison,
 Alternatives_comparison_qualit_crit, Alternatives_quantitative_crit)
 }
